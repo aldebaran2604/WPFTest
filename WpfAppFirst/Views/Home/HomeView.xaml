@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="Home" Height="450" Width="800">
     <StackPanel Orientation="Vertical">
-        <Button Style="{StaticResource ButtonTest}" Content="Button"/>
-        <Button Content="Button"/>
-        <Button Content="Button"/>
+        <Button Style="{StaticResource ButtonTest}" Content="Button" />
+        <Button Content="Button" />
+        <Button Style="{StaticResource ButtonDefault}" Content="Button" />
     </StackPanel>
 </Window>
